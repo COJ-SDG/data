@@ -29,6 +29,5 @@ precision: []
 reporting_status: notstarted
 sort: ''
 standalone: false
-tags: 
-  - Reported
+tags:
   - Original
