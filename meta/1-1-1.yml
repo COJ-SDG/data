@@ -107,3 +107,6 @@ COVERAGE: >-
 COMPARABILITY: >-
 
 OTHER_DOC: >-
+
+GRAPH_TYPE: >-
+line
