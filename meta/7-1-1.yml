@@ -6,7 +6,8 @@ source_organisation_1: Demo
 source_url_1: https://test1.org.za
 reporting_status: complete
 graph_type: line
-SDG_INDICATOR_INFO: Test
+SDG_INDICATOR_INFO: >-
+  Test
 SDG_INDICATOR: Test
 STAT_CONC_DEF: Test
 UNIT_MEASURE: Test
