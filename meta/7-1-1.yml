@@ -1,8 +1,17 @@
+
 indicator_name: Proportion of population with access to electricity
-indicator_number: 7.1.1
 computation_units: Percentage
-source_active_1: true
+source_active_1: True
 source_organisation_1: Demo
-source_url_1: "https://demo.org"
+source_url_1: https://test1.org.za
 reporting_status: complete
 graph_type: line
+SDG_INDICATOR_INFO: Test
+SDG_INDICATOR: Test
+STAT_CONC_DEF: Test
+UNIT_MEASURE: Test
+SOURCE_TYPE: Test
+DATA_SOURCE: Test
+DATA_COMP: Test
+REC_USE_LIM: Test
+
