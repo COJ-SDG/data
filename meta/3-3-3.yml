@@ -1,0 +1,17 @@
+
+indicator_name: New Malaria cases reported
+computation_units: Number
+source_active_1: True
+source_organisation_1: District Health Information System (DHIS)
+source_url_1: 
+reporting_status: Complete
+graph_type: bar
+SDG_INDICATOR_INFO: 
+SDG_INDICATOR: New Malaria cases reported
+STAT_CONC_DEF: 
+UNIT_MEASURE: Number
+SOURCE_TYPE: Online
+DATA_SOURCE: District Health Information System (DHIS)
+DATA_COMP: 
+REC_USE_LIM: Public health facilities only
+
