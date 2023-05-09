@@ -1,14 +1,13 @@
 
-indicator_name: Maternal mortality in facility ratio
+indicator_name: Maternal mortality ratio
 computation_units: Number
 source_active_1: True
 source_organisation_1: District Health Information System (DHIS)
-source_url_1: Blank
-reporting_status: complete
-graph_type: bar
-SDG_INDICATOR_INFO: Blank
+source_url_1: No URL
+reporting_status: complete 
+graph_type: line
 SDG_INDICATOR: Maternal mortality in facility ratio
-STAT_CONC_DEF: Blank
+STAT_CONC_DEF: Maternal death is death occurring during pregnancy, childbirth and the puerperium of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of pregnancy and  irrespective of the cause of death (obstetric and non-obstetric) per 100,000 live births in facility
 UNIT_MEASURE: Number
 SOURCE_TYPE: Online
 DATA_SOURCE: District Health Information System (DHIS)
