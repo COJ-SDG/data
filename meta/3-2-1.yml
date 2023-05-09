@@ -1,17 +1,17 @@
 
-indicator_name: 
-computation_units: 
+indicator_name: Blank
+computation_units: Blank
 source_active_1: True
 source_organisation_1: District Health Information System (DHIS)
-source_url_1: 
+source_url_1: Blank
 reporting_status: Complete
 graph_type: bar
-SDG_INDICATOR_INFO: 
-SDG_INDICATOR: 0
-STAT_CONC_DEF: 
-UNIT_MEASURE: 0
-SOURCE_TYPE: 
+SDG_INDICATOR_INFO: Blank
+SDG_INDICATOR: Blank
+STAT_CONC_DEF: Blank
+UNIT_MEASURE: Blank
+SOURCE_TYPE: Blank
 DATA_SOURCE: District Health Information System (DHIS)
-DATA_COMP: 
+DATA_COMP: Blank
 REC_USE_LIM: Public health facilities only
 
