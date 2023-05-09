@@ -3,15 +3,15 @@ indicator_name: Severe acute malnutrition <5yr incidence
 computation_units: Number per 1,000
 source_active_1: True
 source_organisation_1: Quantek
-source_url_1: 
+source_url_1: NA
 reporting_status: Complete
 graph_type: bar
-SDG_INDICATOR_INFO: 
+SDG_INDICATOR_INFO: TBA
 SDG_INDICATOR: Severe acute malnutrition <5yr incidence
 STAT_CONC_DEF: Under-5-year-olds newly diagnosed with severe acute malnutrition, per 1 000 0-4yr population.
 UNIT_MEASURE: Number per 1,000
 SOURCE_TYPE: Online
 DATA_SOURCE: Quantek
 DATA_COMP: SMANU5I_N x 1000 / POP_00_04
-REC_USE_LIM: 
+REC_USE_LIM: Public health facilities only
 
