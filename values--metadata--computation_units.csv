@@ -1,7 +1,8 @@
 Value,Number of indicators
-Blank,2
+Blank,1
+Boolean,1
 Kilograms,1
 "Number per 1,000",1
 "Number per 100,000",1
 Number,4
-Percentage,2
+Percentage,3

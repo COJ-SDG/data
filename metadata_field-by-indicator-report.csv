@@ -8,7 +8,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-4-2,notstarted,UN-Habitat and World Bank,,,,,line
 #1-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#1-5-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#1-5-3,complete,United Nations Office for Disaster Reduction (UNISDR),,,,Boolean,binary
 #1-5-4,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-a-1,notstarted,OECD,,,,,line
 #1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
@@ -178,9 +178,9 @@ World Bank (WB)",,,,"Number per 1,000",bar
 #2-a-2,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-b-1,notstarted,The World Trade Organization (WTO),,,,,line
 #2-c-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#3-1-1,complete,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,Number,bar
+#3-1-1,complete,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,Number,line
 #3-1-2,complete,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,Number,bar
-#3-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,Blank,bar
+#3-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,Percentage,line
 #3-2-2,complete,United Nations Children&apos;s Fund (UNICEF) ,,,,Blank,bar
 #3-3-1,notstarted,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,line
 #3-3-2,notstarted,World Health Organization (WHO),,,,,line
