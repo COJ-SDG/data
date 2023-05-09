@@ -6,12 +6,12 @@ source_organisation_1: South Africa Regional eXplorer 2374
 source_url_1: No URL
 reporting_status: complete
 graph_type: line
-SDG_INDICATOR: Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)
+SDG_INDICATOR: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions
 STAT_CONC_DEF: A proxy indicator for the level of poverty in the City of Johannesburg
 UNIT_MEASURE: Percentage
 SOURCE_TYPE: IHS Data Platform
 DATA_SOURCE: South Africa Regional eXplorer 2374
 DATA_COMP: Average of (Share below the upper poverty line (StatsSA defined)+Share below the food poverty line (StatsSA defined)+
 Share below the lower poverty line (StatsSA defined))
-REC_USE_LIM: Indicator uses the same data as indicator 1.2.1
+REC_USE_LIM: Indicator uses the same data as indicator 1.1.1
 
