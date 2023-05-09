@@ -4,7 +4,7 @@ source_active_1: True
 source_organisation_1: South Africa Regional eXplorer 2374
 source_url_1: No URL
 reporting_status: complete
-graph_type: line
+graph_type: bar
 SDG_INDICATOR: Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)
 STAT_CONC_DEF: A proxy indicator for the level of poverty in the City of Johannesburg
 UNIT_MEASURE: Percentage
