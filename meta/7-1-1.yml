@@ -6,12 +6,12 @@ source_organisation_1: Demo
 source_url_1: https://test1.org.za
 reporting_status: complete
 graph_type: line
-SDG_INDICATOR_INFO: Blank
+SDG_INDICATOR_INFO: This is the first line in the information table under metadata
 SDG_INDICATOR: Proportion of population with access to electricity
-STAT_CONC_DEF: Blank
+STAT_CONC_DEF: This is definition and concepts
 UNIT_MEASURE: Percentage
 SOURCE_TYPE: Online
-DATA_SOURCE: Demo
-DATA_COMP: Blank
-REC_USE_LIM: Blank
+DATA_SOURCE: Demo data source
+DATA_COMP: How the indicator is caculated
+REC_USE_LIM: Comment and limitations
 
