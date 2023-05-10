@@ -2,7 +2,7 @@ indicator_name: Under-5 mortality rate
 computation_units: Percentage
 source_active_1: True
 source_organisation_1: District Health Information System (DHIS)
-source_url_1: No URL
+source_url_1:
 reporting_status: complete 
 graph_type: line
 SDG_INDICATOR: Death under 5 years against live birth rate

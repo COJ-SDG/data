@@ -3,7 +3,7 @@ indicator_name: New Malaria cases reported
 computation_units: Number
 source_active_1: True
 source_organisation_1: District Health Information System (DHIS)
-source_url_1: Blank
+source_url_1: 
 reporting_status: complete
 graph_type: bar
 SDG_INDICATOR_INFO: Blank

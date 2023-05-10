@@ -3,15 +3,15 @@ indicator_name: Live births in all facility
 computation_units: Number
 source_active_1: True
 source_organisation_1: District Health Information System (DHIS)
-source_url_1: Blank
+source_url_1: 
 reporting_status: complete
 graph_type: bar
-SDG_INDICATOR_INFO: Blank
+SDG_INDICATOR_INFO: 
 SDG_INDICATOR: Live births in all facility
-STAT_CONC_DEF: Blank
+STAT_CONC_DEF: 
 UNIT_MEASURE: Number
 SOURCE_TYPE: Online
 DATA_SOURCE: District Health Information System (DHIS)
-DATA_COMP: Blank
+DATA_COMP: 
 REC_USE_LIM: Public health facilities only
 
