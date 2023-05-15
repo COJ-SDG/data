@@ -12,7 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Very dissatisfied",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2.49296855",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dissatisfied",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "9.613909486",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

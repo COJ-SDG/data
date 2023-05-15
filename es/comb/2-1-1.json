@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2021],"Female":["0.232911985"],"Male":["0.222816901"],"Value":[0.227864443]},"edges":{"From":["Female"],"To":["Male"]}}
