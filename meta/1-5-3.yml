@@ -5,7 +5,7 @@ source_organisation_1: COJ Municipal Disaster Management Plan
 source_url_1: https://www.joburg.org.za/services_/Pages/City%20Services/Emergency%20Services/Emergency%20Services/bylaws%20list%20links/Disaster-Management-in-the-City.aspx
 reporting_status: complete 
 graph_type: binary
-SDG_INDICATOR: Does the Municipality adopt and implement a disaster risk reduction strategy in line with the Sendai Framework for Disaster Risk Reduction 2015â€“2030
+SDG_INDICATOR: Does the Municipality adopt and implement a disaster risk reduction strategy in line with the Sendai Framework for Disaster Risk Reduction 2015–2030
 STAT_CONC_DEF: The City of Johannesburg publishes an updated Disaster Management Plan on an annual basis
 UNIT_MEASURE: Boolean
 SOURCE_TYPE: Report
