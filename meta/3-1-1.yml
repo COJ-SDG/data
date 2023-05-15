@@ -1,14 +1,14 @@
+
 indicator_name: Maternal mortality ratio
-computation_units: Number
-source_active_1: True
-source_organisation_1: District Health Information System (DHIS)
-source_url_1:
+computation_units: Percentage
+source_active_1: False
 reporting_status: complete 
 graph_type: line
 SDG_INDICATOR: Maternal mortality in facility ratio
-STAT_CONC_DEF: Maternal death is death occurring during pregnancy, childbirth and the puerperium of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of pregnancy and Â irrespective of the cause of death (obstetric and non-obstetric) per 100,000 live births in facility
-UNIT_MEASURE: Number
-SOURCE_TYPE: Online
-DATA_SOURCE: District Health Information System (DHIS)
-DATA_COMP: Maternal death in facility/(Live birth in facility)+(Born alive before arrival at facility)
+STAT_CONC_DEF: Maternal death is death occurring during pregnancy, childbirth and the puerperium of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of pregnancy and  irrespective of the cause of death (obstetric and non-obstetric) per 100,000 live births in facility
+UNIT_MEASURE: Percentage
+SOURCE_TYPE: COJ Integrated Policy Planning & Research Unit Data
+DATA_SOURCE: COJ Department of Health
+DATA_COMP: Maternal death in facility / (Live birth in facility) + (Born alive before arrival at facility)
 REC_USE_LIM: Public health facilities only
+
