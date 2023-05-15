@@ -1,17 +1,14 @@
 
-indicator_name: Couple year protection rate
+indicator_name: Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods
 computation_units: Number
-source_active_1: True
-source_organisation_1: District Health Information System (DHIS)
-source_url_1: 
-reporting_status: complete
-graph_type: bar
-SDG_INDICATOR_INFO: Blank
+source_active_1: False
+reporting_status: complete 
+graph_type: line
 SDG_INDICATOR: Couple year protection rate
-STAT_CONC_DEF: Blank
+STAT_CONC_DEF: Women protected against pregnancy by using modern contraceptive methods, including sterilisations, as proportion of female population 15-49 year. Couple year protection are the total of (Oral pill cycles / 15) + (Medroxyprogesterone injection / 4) + (Norethisterone enanthate injection / 6) + (IUCD x 4.5) + ) + (Sub dermal implantm x 2.5) + Male condoms distributed / 120) + (Female condoms distributed / 120) + (Male sterilisation x 10) + (Female sterilisation x 10).
 UNIT_MEASURE: Number
-SOURCE_TYPE: Online
-DATA_SOURCE: District Health Information System (DHIS)
-DATA_COMP: Population 15-49 years females / ({Oral pill cycle} / 15) + ({Medroxyprogesterone injection} / 4) + ({Norethisterone enanthate injection} / 6) + ({IUCD inserted} * 4.5) + ({Male condoms distributed} / 120) + ({Sterilisation - male} * 10) + ({Sterilisation - female} * 10)+({Female condoms distributed}/120)+({Sub-dermal implant inserted}*2.5)
+SOURCE_TYPE: COJ Integrated Policy Planning & Research Unit Data
+DATA_SOURCE: COJ Department of Health
+DATA_COMP: Population 15-49 years females / ((Oral pill cycle) / 15) + ((Medroxyprogesterone injection) / 4) + ((Norethisterone enanthate injection) / 6) + ((IUCD inserted) * 4.5) + ((Male condoms distributed) / 120) + ((Sterilisation - male) * 10) + ((Sterilisation - female) * 10)+((Female condoms distributed)/120)+((Sub-dermal implant inserted)*2.5)
 REC_USE_LIM: Public health facilities only
 
