@@ -1,15 +1,15 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
-#1-1-1,complete,International Labour Organization (ILO),,,,Percentage,bar
+#1-1-1,complete,International Labour Organization (ILO),,,,Percentage,line
 #1-1-2,notstarted,,True,,,,line
-#1-2-1,notstarted,World Bank,,,,,line
-#1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
-#1-3-1,notstarted,International Labour Organization (ILO),,,,,line
+#1-2-1,complete,World Bank,,,,Percentage,line
+#1-2-2,complete,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,Percentage,line
+#1-3-1,complete,International Labour Organization (ILO),,,,Percentage,line
 #1-4-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
 #1-4-2,notstarted,UN-Habitat and World Bank,,,,,line
 #1-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-3,complete,United Nations Office for Disaster Reduction (UNISDR),,,,Boolean,binary
-#1-5-4,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#1-5-4,complete,United Nations Office for Disaster Reduction (UNISDR),,,,Yes/No,binary
 #1-a-1,notstarted,OECD,,,,,line
 #1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
 #1-b-1,notstarted,,,,,,line
@@ -160,7 +160,7 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #17-8-1,notstarted,International Telecommunication Union (ITU),,,,,line
 #17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#2-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,Percentage,line
 #2-1-2,notstarted,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
 #2-2-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
@@ -182,8 +182,8 @@ World Bank (WB)",,,,"Number per 1,000",bar
 #3-1-2,complete,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,Number,bar
 #3-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,Percentage,line
 #3-2-2,complete,United Nations Children&apos;s Fund (UNICEF) ,,,,Blank,bar
-#3-3-1,notstarted,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,line
-#3-3-2,notstarted,World Health Organization (WHO),,,,,line
+#3-3-1,complete,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,Number,Line
+#3-3-2,complete,World Health Organization (WHO),,,,"Number per 100,000",line
 #3-3-3,complete,Global Malaria Programme at World Health Organization(WHO),,,,Number,bar
 #3-3-4,notstarted,World Health Organization ,,,,,line
 #3-3-5,notstarted,World Health Organization (WHO),,,,,line

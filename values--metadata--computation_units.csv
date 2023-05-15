@@ -3,6 +3,7 @@ Blank,1
 Boolean,1
 Kilograms,1
 "Number per 1,000",1
-"Number per 100,000",1
-Number,4
-Percentage,3
+"Number per 100,000",2
+Number,5
+Percentage,7
+Yes/No,1
