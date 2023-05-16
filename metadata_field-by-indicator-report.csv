@@ -7,7 +7,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-4-2,notstarted,UN-Habitat and World Bank,,,,,line
 #1-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#1-5-3,complete,United Nations Office for Disaster Reduction (UNISDR),,,,Boolean,binary
+#1-5-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-4,complete,United Nations Office for Disaster Reduction (UNISDR),,,,Yes/No,binary
 #1-a-1,notstarted,OECD,,,,,line
 #1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
@@ -164,9 +164,9 @@ United Nations Development Programme (UNDP)",,,,,line
 #2-2-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
 World Bank (WB)",,,,,line
-#2-2-2,complete,"United Nations Children&apos;s Fund (UNICEF)
+#2-2-2,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
-World Bank (WB)",,,,"Number per 1,000",bar
+World Bank (WB)",,,,,line
 #2-2-3,notstarted,World Health Organization (WHO),,,,,line
 #2-3-1,notstarted,Food and Agriculture Organization (FAO),,,,,line
 #2-3-2,notstarted,Food and Agriculture Organization (FAO),,,,,line
@@ -177,13 +177,13 @@ World Bank (WB)",,,,"Number per 1,000",bar
 #2-a-2,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-b-1,notstarted,The World Trade Organization (WTO),,,,,line
 #2-c-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#3-1-1,complete,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,Number,line
-#3-1-2,complete,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,Number,bar
-#3-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,Percentage,line
-#3-2-2,complete,United Nations Children&apos;s Fund (UNICEF) ,,,,Blank,bar
+#3-1-1,notstarted,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,,line
+#3-1-2,notstarted,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
+#3-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#3-2-2,notstarted,United Nations Children&apos;s Fund (UNICEF) ,,,,,line
 #3-3-1,complete,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,Number,Line
 #3-3-2,complete,World Health Organization (WHO),,,,"Number per 100,000",line
-#3-3-3,complete,Global Malaria Programme at World Health Organization(WHO),,,,Number,bar
+#3-3-3,notstarted,Global Malaria Programme at World Health Organization(WHO),,,,,line
 #3-3-4,notstarted,World Health Organization ,,,,,line
 #3-3-5,notstarted,World Health Organization (WHO),,,,,line
 #3-4-1,notstarted,World Health Organization (WHO) ,,,,,line
@@ -192,8 +192,8 @@ World Bank (WB)",,,,"Number per 1,000",bar
 United Nations Office on Drugs and Crime (UNODC) ",,,,,line
 #3-5-2,notstarted,World Health Organization (WHO) ,,,,,line
 #3-6-1,notstarted,World Health Organization (WHO) ,,,,,line
-#3-7-1,complete,"Population Division, Department of Economic and Social Affairs (DESA)
-United Nations Population Fund (UNFPA)",,,,Number,bar
+#3-7-1,notstarted,"Population Division, Department of Economic and Social Affairs (DESA)
+United Nations Population Fund (UNFPA)",,,,,line
 #3-7-2,notstarted,"Population Division, Department of Economic and Social Affairs (DESA) 
 United Nations Population Fund (UNFPA)",,,,,line
 #3-8-1,notstarted,World Health Organization (WHO) ,,,,,line
@@ -206,7 +206,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 #3-b-1,notstarted,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,,,,line
 #3-b-2,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #3-b-3,notstarted,World Health Organization (WHO),,,,,line
-#3-c-1,complete,"Health Workforce Department, World Health Organization (WHO)",,,,"Number per 100,000",bar
+#3-c-1,notstarted,"Health Workforce Department, World Health Organization (WHO)",,,,,line
 #3-d-1,notstarted,World Health Organization (WHO),,,,,line
 #3-d-2,notstarted,World Health Organization (WHO) ,,,,,line
 #4-1-1,notstarted,UNESCO Institute of Statistics (UIS),,,,,line
@@ -265,9 +265,9 @@ Organisation for Economic Co-operation and Development (OECD)",,,,,line
 #6-b-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#7-1-1,complete,World Bank Group,,,,Percentage,line
-#7-1-2,complete,World Health Organization (WHO),,,,Kilograms,bar
-#7-2-1,notapplicable,"International Energy Agency (IEA) 
+#7-1-1,target_achieved,World Bank Group,,,,,line
+#7-1-2,notstarted,World Health Organization (WHO),,,,,line
+#7-2-1,notstarted,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD) 
 International Renewable Energy Agency (IRENA)",,,,,line
 #7-3-1,notstarted,"International Energy Agency (IEA) 

@@ -1,9 +1,5 @@
 Value,Number of indicators
-Blank,1
-Boolean,1
-Kilograms,1
-"Number per 1,000",1
-"Number per 100,000",2
-Number,5
-Percentage,7
+"Number per 100,000",1
+Number,1
+Percentage,5
 Yes/No,1
