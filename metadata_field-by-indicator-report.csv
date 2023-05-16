@@ -160,7 +160,7 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-8-1,notstarted,International Telecommunication Union (ITU),,,,,line
 #17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,Percentage,line
-#2-1-2,notstarted,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
+#2-1-2,complete,Food and Agriculture Organisation of the United Nations (FAO),,,,Percentage,line
 #2-2-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
 World Bank (WB)",,,,,line
@@ -192,8 +192,8 @@ World Bank (WB)",,,,,line
 United Nations Office on Drugs and Crime (UNODC) ",,,,,line
 #3-5-2,notstarted,World Health Organization (WHO) ,,,,,line
 #3-6-1,notstarted,World Health Organization (WHO) ,,,,,line
-#3-7-1,notstarted,"Population Division, Department of Economic and Social Affairs (DESA)
-United Nations Population Fund (UNFPA)",,,,,line
+#3-7-1,complete,"Population Division, Department of Economic and Social Affairs (DESA)
+United Nations Population Fund (UNFPA)",,,,Number,line
 #3-7-2,notstarted,"Population Division, Department of Economic and Social Affairs (DESA) 
 United Nations Population Fund (UNFPA)",,,,,line
 #3-8-1,notstarted,World Health Organization (WHO) ,,,,,line
