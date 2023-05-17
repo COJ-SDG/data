@@ -15,21 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Female %",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "0.602137177",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Male %",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.397862823",
+                "Female",
+                "Male",
                 ""
               ]
             }

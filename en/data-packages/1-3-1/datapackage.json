@@ -16,26 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Female %",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "0.602137177",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Female %"
-          },
-          {
-            "name": "Male %",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.397862823",
-                ""
-              ]
-            },
-            "title": "Male %"
+            "title": "Gender"
           },
           {
             "name": "Value",
