@@ -1,0 +1,14 @@
+
+indicator_name: Neonatal mortality rate
+computation_units: Percentage
+source_active_1: False
+reporting_status: complete 
+graph_type: line
+SDG_INDICATOR: Death under 28 days against live birth rate
+STAT_CONC_DEF: Babies under 28 days who died during their stay in the facility as a proportion of all live births
+UNIT_MEASURE: Percentage
+SOURCE_TYPE: COJ Integrated Policy Planning & Research Unit Data
+DATA_SOURCE: COJ Department of Health
+DATA_COMP: (Death in facility 0-6 days) + (Death in facility 7-28 days) / Live birth in facility
+REC_USE_LIM: Public health facilities only
+
