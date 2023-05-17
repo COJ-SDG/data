@@ -39,21 +39,12 @@
             "type": "integer"
           },
           {
-            "name": "Female",
+            "name": "Attribute",
             "type": "string",
             "constraints": {
               "enum": [
-                "0.232911985",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Male",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.222816901",
+                "Female",
+                "Male",
                 ""
               ]
             }
@@ -88,6 +79,7 @@
                 "Pov_Food_%",
                 "Pov_Low_%",
                 "Pov_Upper_%",
+                "Value",
                 ""
               ]
             }
@@ -214,21 +206,12 @@
             "type": "integer"
           },
           {
-            "name": "Very dissatisfied",
+            "name": "Attribute",
             "type": "string",
             "constraints": {
               "enum": [
-                "2.49296855",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Dissatisfied",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "9.613909486",
+                "Very dissatisfied",
+                "Dissatisfied",
                 ""
               ]
             }
@@ -377,6 +360,19 @@
             "type": "integer"
           },
           {
+            "name": "Attribute",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pov_Food_%",
+                "Pov_Low_%",
+                "Pov_Upper_%",
+                "Value",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -485,6 +481,19 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Attribute",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pov_Food_%",
+                "Pov_Low_%",
+                "Pov_Upper_%",
+                "Value",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

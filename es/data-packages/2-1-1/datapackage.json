@@ -16,26 +16,16 @@
             "title": "Año"
           },
           {
-            "name": "Female",
+            "name": "Attribute",
             "type": "string",
             "constraints": {
               "enum": [
-                "0.232911985",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Female"
-          },
-          {
-            "name": "Male",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.222816901",
-                ""
-              ]
-            },
-            "title": "Male"
+            "title": "Attribute"
           },
           {
             "name": "Value",

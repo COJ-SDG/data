@@ -15,21 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Very dissatisfied",
+            "name": "Attribute",
             "type": "string",
             "constraints": {
               "enum": [
-                "2.49296855",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Dissatisfied",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "9.613909486",
+                "Very dissatisfied",
+                "Dissatisfied",
                 ""
               ]
             }

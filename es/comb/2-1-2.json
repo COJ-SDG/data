@@ -1,1 +1,1 @@
-{"data":{"Year":[2021],"Very dissatisfied":["2.49296855"],"Dissatisfied":["9.613909486"],"Value":[12.10687804]},"edges":{"From":["Very dissatisfied"],"To":["Dissatisfied"]}}
+{"data":{"Year":[2021,2021,2021],"Attribute":["Very dissatisfied","Dissatisfied",null],"Value":[2.49296855,9.613909486,12.10687804]},"edges":[]}

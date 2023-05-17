@@ -1,4 +1,9 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Pov_Food_%,1,1
-Pov_Low_%,1,1
-Pov_Upper_%,1,1
+Dissatisfied,1,1
+Female,1,1
+Male,1,1
+Pov_Food_%,3,3
+Pov_Low_%,3,3
+Pov_Upper_%,3,3
+Value,3,3
+Very dissatisfied,1,1

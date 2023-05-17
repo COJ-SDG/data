@@ -42,26 +42,16 @@
             "title": "Año"
           },
           {
-            "name": "Female",
+            "name": "Attribute",
             "type": "string",
             "constraints": {
               "enum": [
-                "0.232911985",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Female"
-          },
-          {
-            "name": "Male",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.222816901",
-                ""
-              ]
-            },
-            "title": "Male"
+            "title": "Attribute"
           },
           {
             "name": "Value",
@@ -95,6 +85,7 @@
                 "Pov_Food_%",
                 "Pov_Low_%",
                 "Pov_Upper_%",
+                "Value",
                 ""
               ]
             },
@@ -233,26 +224,16 @@
             "title": "Año"
           },
           {
-            "name": "Very dissatisfied",
+            "name": "Attribute",
             "type": "string",
             "constraints": {
               "enum": [
-                "2.49296855",
+                "Very dissatisfied",
+                "Dissatisfied",
                 ""
               ]
             },
-            "title": "Very dissatisfied"
-          },
-          {
-            "name": "Dissatisfied",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "9.613909486",
-                ""
-              ]
-            },
-            "title": "Dissatisfied"
+            "title": "Attribute"
           },
           {
             "name": "Value",
@@ -411,6 +392,20 @@
             "title": "Año"
           },
           {
+            "name": "Attribute",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pov_Food_%",
+                "Pov_Low_%",
+                "Pov_Upper_%",
+                "Value",
+                ""
+              ]
+            },
+            "title": "Attribute"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -529,6 +524,20 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Attribute",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pov_Food_%",
+                "Pov_Low_%",
+                "Pov_Upper_%",
+                "Value",
+                ""
+              ]
+            },
+            "title": "Attribute"
           },
           {
             "name": "Value",
