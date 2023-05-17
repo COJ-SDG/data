@@ -16,6 +16,19 @@
             "title": "Year"
           },
           {
+            "name": "Attribute",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pov_Food_%",
+                "Pov_Low_%",
+                "Pov_Upper_%",
+                ""
+              ]
+            },
+            "title": "Attribute"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
