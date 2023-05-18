@@ -1,0 +1,19 @@
+
+Indicator Name: Number of victims of intentional homicide per 100,000 population, by sex and age
+Graph Units: Number per 100,000
+Source Status: False
+Status: complete
+Graph Type: bar
+Municipal Defined Indicator: Number of victims of intentional homicide per 100,000 population
+Definition and concepts: Murder per 100 000 as reported in the SACities Urban Safety Report
+Unit of measure: Number per 100,000
+Data sources: State of Urban Safety Report
+Data providers: South African Cities Network (SACN)
+Method of computation: No computation. Values and copied directly from Urban Safety Report
+Comment and limitations: See Urban Safety Report for limitations
+Goal: 16
+Target: 16.1
+Export: True
+Meta Status: Metadata Complete
+Data Status: 
+

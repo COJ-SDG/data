@@ -1,0 +1,19 @@
+
+Indicator Name: Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months
+Graph Units: Number per 100,000
+Source Status: False
+Status: complete
+Graph Type: bar
+Municipal Defined Indicator: Number of victims of assault with intent to inflict GBH per 100,000 population
+Definition and concepts: Crimes per 100 000 including Sexual offences, Robbery with aggravating circumstances, Assault with the intent to inflict grievous bodily harm
+Unit of measure: Number per 100,000
+Data sources: State of Urban Safety Report
+Data providers: South African Cities Network (SACN)
+Method of computation: No computation. Values and copied directly from Urban Safety Report
+Comment and limitations: See Urban Safety Report for limitations
+Goal: 16
+Target: 16.1
+Export: True
+Meta Status: Metadata Complete
+Data Status: 
+
