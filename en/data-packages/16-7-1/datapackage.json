@@ -12,12 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Women Councillors",
+                "Number of Male Councillors",
+                "Total number of Black Councillors",
+                "Total number of White Councillors",
+                "Total number of Indian Councillors",
+                "Total number of Coloured Councillors",
+                "Total number of Asian Councillors",
+                "Total number of Councillors Disabled Councillors",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
