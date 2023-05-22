@@ -1,0 +1,13 @@
+indicator_name: Proportion of seats held by women in (a) national parliaments and (b) local governments
+computation_units: Number
+source_active_1: FALSE
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Proportion of council seats held by women in local governments
+STAT_CONC_DEF: 
+UNIT_MEASURE: Number
+SOURCE_TYPE: COJ Corporate HR Data
+DATA_SOURCE: COJ Corporate HR
+DATA_COMP: No method of computation required
+REC_USE_LIM: 
+
