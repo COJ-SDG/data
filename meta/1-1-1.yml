@@ -10,3 +10,5 @@ SOURCE_TYPE: IHS Data Platform, South Africa Regional eXplorer 2374
 DATA_SOURCE: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
 DATA_COMP: Average of (Share below the upper poverty line (StatsSA defined)+Share below the food poverty line (StatsSA defined)+Share below the lower poverty line (StatsSA defined))
 REC_USE_LIM: Data not split by sex, age, emploment status or geography
+
+Test
