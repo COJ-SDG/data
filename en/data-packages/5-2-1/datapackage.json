@@ -16,19 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Attribute",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "No",
-                "Yes",
-                "Unspecified",
-                ""
-              ]
-            },
-            "title": "Attribute"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

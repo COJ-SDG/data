@@ -490,18 +490,6 @@
             "type": "integer"
           },
           {
-            "name": "Attribute",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "No",
-                "Yes",
-                "Unspecified",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
