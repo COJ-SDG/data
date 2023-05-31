@@ -6,12 +6,12 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-4-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
 #1-4-2,notstarted,UN-Habitat and World Bank,,,,,line
 #1-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#1-5-2,notapplicable,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#1-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-3,complete,United Nations Office for Disaster Reduction (UNISDR),,,,Yes/No,binary
 #1-5-4,complete,United Nations Office for Disaster Reduction (UNISDR),,,,Yes/No,binary
 #1-a-1,notapplicable,OECD,,,,,line
-#1-a-2,notapplicable,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#1-b-1,notapplicable,,,,,,line
+#1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
+#1-b-1,notstarted,,,,,,line
 #10-1-1,notstarted,World Bank (WB),,,,,line
 #10-2-1,notstarted,World Bank (WB),,,,,line
 #10-3-1,notapplicable,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
@@ -35,8 +35,8 @@ The World Trade Organization (WTO)",,,,,line
 #11-3-2,notstarted,UN-Habitat,,,,,line
 #11-4-1,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
 #11-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#11-5-2,notapplicable,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#11-5-3,notapplicable,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
+#11-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#11-5-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
 #11-6-1,notstarted,"UN-Habitat, UNSD",,,,,line
 #11-6-2,notstarted,World Health Organization (WHO),,,,,line
 #11-7-1,notstarted,UN-HABITAT,,,,,line
@@ -87,7 +87,7 @@ UN Environment",,,,,line
 International Union for Conservation of Nature (IUCN)
 UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
 UN Environment",,,,,line
-#15-2-1,notstarted,Food and Agriculture Organization of the United Nations (FAO) ,,,,,line
+#15-2-1,notapplicable,Food and Agriculture Organization of the United Nations (FAO) ,,,,,line
 #15-3-1,notapplicable,"United Nations Convention to Combat Desertification (UNCCD) and partners, including: Conservation International (CI), European Space Agency (ESA), Food and Agriculture Organization of the United Nations (FAO), Group on Earth Observation Land Degradation Neutrality Initiative (GEO-LDN), International Soil Reference and Information Centre (ISRIC), International Union for Conservation of Nature (IUCN), Joint Research Centre of the European Commission (JRC), United Nations Statistics Division (UNSD), United Nations Development Programme (UNDP), United Nations Environment (UNEP), World Resources Institute (WRI), United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Biological Diversity (CBD).",,,,,line
 #15-4-1,notapplicable,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
@@ -127,8 +127,8 @@ UN Environment",,,,,line
 #16-9-1,notapplicable,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #16-a-1,notapplicable,United Nations Office of the High Commissioner for Human Rights,,,,,line
 #16-b-1,notapplicable,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#17-1-1,notapplicable,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
-#17-1-2,notapplicable,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
+#17-1-1,notstarted,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
+#17-1-2,notstarted,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
 #17-10-1,notapplicable,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",,,,,line
@@ -197,7 +197,7 @@ United Nations Population Fund (UNFPA)",,,,Number,line
 #3-7-2,notapplicable,"Population Division, Department of Economic and Social Affairs (DESA) 
 United Nations Population Fund (UNFPA)",,,,,line
 #3-8-1,notstarted,World Health Organization (WHO) ,,,,,line
-#3-8-2,notapplicable,World Health Organization (WHO) and the World Bank,,,,,line
+#3-8-2,notstarted,World Health Organization (WHO) and the World Bank,,,,,line
 #3-9-1,notapplicable,World Health Organization (WHO),,,,,line
 #3-9-2,notapplicable,World Health Organization (WHO),,,,,line
 #3-9-3,notapplicable,"World Health Organization (WHO)
@@ -238,7 +238,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 #5-3-2,notapplicable,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #5-4-1,notstarted,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
 #5-5-1,complete,UN-Women,,,,Number,bar
-#5-5-2,notapplicable,International Labour Organization (ILO),,,,,line
+#5-5-2,notstarted,International Labour Organization (ILO),,,,,line
 #5-6-1,notapplicable,United Nations Population Fund (UNFPA),,,,,line
 #5-6-2,notapplicable,United Nations Population Fund (UNFPA),,,,,line
 #5-a-1,notapplicable,Food and Agriculture Organization of the United Nations (FAO),,,,,line
@@ -291,7 +291,7 @@ International Labour Organization (ILO)",,,,,line
 #8-9-1,notstarted,World Tourism Organization (UNWTO) ,,,,,line
 #8-a-1,notapplicable,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #8-b-1,notapplicable,International Labour Organization (ILO) ,,,,,line
-#9-1-1,notapplicable,World Bank,,,,,line
+#9-1-1,notstarted,World Bank,,,,,line
 #9-1-2,notstarted,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Economic Commission for Europe (UNECE); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
 #9-2-1,notstarted,United Nations Industrial Development Organization (UNIDO),,,,,line
 #9-2-2,notstarted,"United Nations Industrial Development Organization (UNIDO)
