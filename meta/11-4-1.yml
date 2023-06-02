@@ -1,0 +1,13 @@
+indicator_name: Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)
+computation_units: 
+reporting_status: complete
+graph_type: 
+SDG_INDICATOR: Total expenditure on the preservation, protection and conservation of all cultural and natural heritage
+STAT_CONC_DEF: 
+UNIT_MEASURE: 
+DATA_COMP: 
+SOURCE_TYPE: COJ Annual Financial Statements
+source_active_1: TRUE
+DATA_SOURCE: COJ Group Finance
+source_url_1: 
+
