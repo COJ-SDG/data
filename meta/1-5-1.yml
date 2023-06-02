@@ -1,0 +1,13 @@
+indicator_name: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population
+computation_units: Number
+source_active_1: complete
+reporting_status: bar
+graph_type: Number of natural disaster related deaths per 1000 population  
+SDG_INDICATOR: Incidence of reported deaths attributed to natural disasters, normalised per population. Natural disasters are understood as inclusive of calamities arising from natural
+STAT_CONC_DEF: Number
+UNIT_MEASURE: (1) Number of reported deaths attributed to natural disasters / (2) Total population of the municipality * 1000
+SOURCE_TYPE: COJ Circular 88 Report
+DATA_SOURCE: TRUE
+DATA_COMP: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: 
+

@@ -1,11 +1,13 @@
 indicator_name: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies
 computation_units: Yes/No
-source_active_1: False
-reporting_status: complete 
-graph_type: binary
-SDG_INDICATOR: Does the Municipality adopt and implement a disaster risk reduction strategy in line with the National Disaster Management Plan
-STAT_CONC_DEF: The City of Johannesburg publishes an updated Disaster Management Plan every 5 years
-UNIT_MEASURE: Yes/No
+source_active_1: complete
+reporting_status: binary
+graph_type: Does the Municipality adopt and implement a disaster risk reduction strategy in line with the National Disaster Management Plan
+SDG_INDICATOR: The City of Johannesburg publishes an updated Disaster Management Plan every 5 years
+STAT_CONC_DEF: Yes/No
+UNIT_MEASURE: No method of computation required
 SOURCE_TYPE: COJ Municipal Disaster Management Plan
-DATA_SOURCE: Disaster Management Team
-DATA_COMP: No method of computation required
+DATA_SOURCE: TRUE
+DATA_COMP: Disaster Management Team
+REC_USE_LIM: 
+
