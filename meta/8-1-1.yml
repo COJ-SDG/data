@@ -1,0 +1,13 @@
+indicator_name: Annual growth rate of real GDP per capita
+computation_units: Rand
+reporting_status: complete
+graph_type: Line
+SDG_INDICATOR: Annual growth rate of real GDP per capita
+STAT_CONC_DEF: Gross Domestic Product per Capita - Constant 2015 Prices
+UNIT_MEASURE: Rand
+DATA_COMP: Gross Domestic Product per Capita - Constant 2015 Prices
+SOURCE_TYPE: IHS Data Platform, South Africa Regional eXplorer 2374
+source_active_1: TRUE
+DATA_SOURCE: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+source_url_1: 
+

@@ -1,0 +1,13 @@
+indicator_name: Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)
+computation_units: Number of Days
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Number of days where PM2.5 levels exceeded guideline levels
+STAT_CONC_DEF: Number of days (per municipal financial year) where the levels of PM2.5 exceed the national standard, in excess of the permitted maximum of 4 exceedances  per annual reporting period.
+UNIT_MEASURE: Number of Days
+DATA_COMP: Max of ((3) count of number of exceedances where (1) average daily concentrations of PM2,5 > (2) regulated standard for average daily concentrations of PM2.5] - 4; or 0)
+SOURCE_TYPE: COJ Circular 88 Report
+source_active_1: TRUE
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+source_url_1: 
+

@@ -1,0 +1,13 @@
+indicator_name: Proportion of domestic and industrial wastewater flows safely treated
+computation_units: Percentage of wastewater
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Percentage of wastewater safely treated
+STAT_CONC_DEF: Proportion of wastewater generated both by households (sewage and faecal sludge), as well as economic activities (based on ISIC categories) safely treated compared to total wastewater generated both through households and economic activities.
+UNIT_MEASURE: Percentage of wastewater
+DATA_COMP: 100 - [(0.8 x (1) Percentage of wastewater household (sewage and faecal sludge) wastewater safely treated (PWHt)) + (0.2 x (2) Percentage of wastewater from hazardous industries safely treated (PWIt)]
+SOURCE_TYPE: COJ Circular 88 Report
+source_active_1: TRUE
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+source_url_1: 
+

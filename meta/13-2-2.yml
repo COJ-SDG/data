@@ -1,0 +1,13 @@
+indicator_name: Total greenhouse gas emissions per year
+computation_units: tCO2e
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Total greenhouse gas emissions per year
+STAT_CONC_DEF: 
+UNIT_MEASURE: tCO2e
+DATA_COMP: 
+SOURCE_TYPE: COJ Annual GHG Report
+source_active_1: TRUE
+DATA_SOURCE: COJ Environment Infrastructure Service Department
+source_url_1: 
+

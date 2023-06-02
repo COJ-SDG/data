@@ -1,0 +1,13 @@
+indicator_name: Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Square meters of municipally owned or maintained public outdoor recreation space per capita
+STAT_CONC_DEF: Square meters of municipally owned or maintained active outdoor space intended for recreational purposes. Public recreation space is defined broadly to mean land and open space available to the public for recreation. Recreation space shall include only space that primarily serves a recreation purpose. Includes parks, outdoor sports facilities and public open space. Does not include beaches, resorts and nature reserves. Does not include pedestrianised streets and sidewalks, but may include pedestrian walkways with primarily a recreational purpose. Facilites charging an access fee may still be regarded as 'public' provided that no other access criteria are applied (annual membership fee, club affiliations, etc.).
+UNIT_MEASURE: Ratio area of open space in square meters per capita
+DATA_COMP: Sum of the (1) Square meters of muncipally owned or maintained outdoor recreational area / (2) Total municipal population
+SOURCE_TYPE: COJ Circular 88 Report
+source_active_1: TRUE
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+source_url_1: 
+

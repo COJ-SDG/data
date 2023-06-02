@@ -1,0 +1,13 @@
+indicator_name: Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities
+computation_units: Number
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Tonnes of municipal solid waste sent to landfill per capita
+STAT_CONC_DEF: The volume of the city's solid waste that is disposed of in licensed (sanitary) landfills
+UNIT_MEASURE: Number
+DATA_COMP: (1)Tonnes of waste disposed of in a licensed landfill / (2) total population
+SOURCE_TYPE: COJ Circular 88 Report
+source_active_1: TRUE
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+source_url_1: 
+
