@@ -5,7 +5,7 @@ graph_type: line
 SDG_INDICATOR: Proportion of informal employment in total employment
 STAT_CONC_DEF: Informal employment divided by the number of Employed
 UNIT_MEASURE: Percentage of employed
-DATA_COMP: [#"Employed - Informal (Number)"]/[#"Employed - Formal and informal - Total (Number)"]*100
+DATA_COMP: (#"Employed - Informal (Number)")/(#"Employed - Formal and informal - Total (Number)")*100
 SOURCE_TYPE: Quantec Employment (RUEM)
 source_active_1: TRUE
 DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
