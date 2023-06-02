@@ -1,0 +1,13 @@
+indicator_name: Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Proportion of biodiversity priority areas protected
+STAT_CONC_DEF: The proportion of land identified through municipal strategic environmental assessments and EMFs as biodiversity priority areas, which is protected through some mechanism. Mechanisms may include stewardship agreements, conventional protected areas, & biodiversity agreements, among others.
+UNIT_MEASURE: Percentage
+DATA_COMP: (1) Area of biodiversity priority areas in hectares which is protected  / (2) Total area of land in hectares which is identified as a biodiversity priority area X 100
+SOURCE_TYPE: COJ Circular 88 Report
+source_active_1: TRUE
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+source_url_1: 
+

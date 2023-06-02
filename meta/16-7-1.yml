@@ -1,13 +1,13 @@
 indicator_name: Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups
 computation_units: Number
-source_active_1: FALSE
 reporting_status: complete
-graph_type: bar
-SDG_INDICATOR: Proportions of positions in local government, including (a) the legislatures; (b) the public service; by sex and population groups
-STAT_CONC_DEF: 
+graph_type: line
+SDG_INDICATOR: Proportion of council seats held by women in local governments
+STAT_CONC_DEF: Calculated through COJ HR Records
 UNIT_MEASURE: Number
-SOURCE_TYPE: Internal HR Report
-DATA_SOURCE: COJ Councillor & Support Services
 DATA_COMP: No method of computation required
-REC_USE_LIM: 
+SOURCE_TYPE: COJ Corporate HR Data
+source_active_1: TRUE
+DATA_SOURCE: COJ Corporate HR
+source_url_1: 
 
