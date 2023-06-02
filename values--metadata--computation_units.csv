@@ -1,6 +1,25 @@
 Value,Number of indicators
+kwH/ZAR,1
+Number of Days,1
 "Number per 1,000",1
-"Number per 100,000",3
-Number,4
-Percentage,10
-Yes/No,2
+"Number per 100,000",4
+Number,12
+Percentage Households,1
+Percentage of employed,1
+Percentage of energy capacity (MW),2
+Percentage of energy consumption,1
+Percentage of facilities,1
+Percentage of households,4
+Percentage of kilolitres,1
+Percentage of population,2
+Percentage of wastewater,1
+Percentage of Women,1
+Percentage,29
+Rand per person,1
+Rand,3
+tCO2e,1
+tCO2/ZAR,1
+Tonnes,1
+USD,1
+Wetland condition index,1
+Yes/No,12
