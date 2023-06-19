@@ -12,23 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Crime",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sexual offences",
-                "Robbery with aggravating circumstances",
-                "Assault with the intent to inflict grievous bodily harm",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

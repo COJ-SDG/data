@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Attribute",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Owned",
-                "Renting",
-                ""
-              ]
-            },
-            "title": "Attribute"
           },
           {
             "name": "Value",
