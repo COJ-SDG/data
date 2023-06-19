@@ -1,0 +1,13 @@
+indicator_name: Financial Soundness Indicators
+computation_units: Yes/No
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Financial Soundness Indicators
+STAT_CONC_DEF: Does the Audit Opinion result in an "Unqualified without material finding"?
+UNIT_MEASURE: Yes/No
+DATA_COMP: No method of computation required
+SOURCE_TYPE: COJ SDBIP Indicator
+source_active_1: TRUE
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+source_url_1: https //www.joburg.org.za/documents_/Pages/Key%20Documents/SDBIP%20IDP%20and%20Budget/links/SDBIP.aspx
+

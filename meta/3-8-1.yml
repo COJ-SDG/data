@@ -1,0 +1,13 @@
+indicator_name: Coverage of essential health services
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Coverage of essential health services
+STAT_CONC_DEF: Proxy indicator that uses the Question "How satisfied are you with health services you usually use?" in the QOL survey
+UNIT_MEASURE: Percentage
+DATA_COMP: Number of answer to q13_4_health_satis that are "Dissatisfied" + "Very dissatisfied" / total number of answers
+SOURCE_TYPE: Quality of Life Survey
+source_active_1: TRUE
+DATA_SOURCE: Gauteng City-Region Observatory (GCRO)
+source_url_1: https //www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=Qol&sort_by=title&sort_order=asc&ps=15
+

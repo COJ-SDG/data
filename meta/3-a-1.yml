@@ -1,0 +1,13 @@
+indicator_name: Age-standardized prevalence of current tobacco use among persons aged 15 years and older
+computation_units: Number
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Age-standardized prevalence of current tobacco use among persons aged 15 years and older
+STAT_CONC_DEF: Modelled from data from the National Income Dynamics Study (NIDS)
+UNIT_MEASURE: Number
+DATA_COMP: 15+yrs tobacco non-smoking index (NiDS modelled) (SAHR_431I)
+SOURCE_TYPE: District Health Information System (DHIS)
+source_active_1: TRUE
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+source_url_1: https //za.dhis.dhmis.org/dhis-web-commons/security/login.action
+
