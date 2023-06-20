@@ -7,7 +7,10 @@ STAT_CONC_DEF:
 UNIT_MEASURE: Yes/No
 DATA_COMP: No method of computation required
 SOURCE_TYPE: Climate Action Plan City Of Johannesburg
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: TBC
-source_url_1: 
+REC_USE_LIM: 
+source_organisation_1: TBC
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.joburg.org.za/departments_/Documents/EISD/City%20of%20Johannesburg%20-%20Climate%20Action%20Plan%20%28CAP%29.pdf
 

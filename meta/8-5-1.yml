@@ -1,13 +1,2 @@
-indicator_name: Average hourly earnings of employees, by sex, age, occupation and persons with disabilities
-computation_units: Rand
-reporting_status: complete
-graph_type: line
-SDG_INDICATOR: Average hourly earnings of employees
-STAT_CONC_DEF: Monthly Earnings for employees
-UNIT_MEASURE: Rand
-DATA_COMP: 
-SOURCE_TYPE: Labour Market Dynamics in South Africa
-source_active_1: TRUE
-DATA_SOURCE: UCT - DataFirst
-source_url_1: 
+reporting_status: notstarted
 

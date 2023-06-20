@@ -1,13 +1,2 @@
-indicator_name: Energy intensity measured in terms of primary energy and GDP
-computation_units: kwH/ZAR
-reporting_status: complete
-graph_type: line
-SDG_INDICATOR: Energy intensity measured in terms of primary energy and GDP
-STAT_CONC_DEF: Total energy consumption divided by GDP
-UNIT_MEASURE: kwH/ZAR
-DATA_COMP: Total Energy Bought from Eskom (kWh)/ GDP (ZAR)
-SOURCE_TYPE: COJ Annual GHG Report and IHS Annual GDP Report
-source_active_1: TRUE
-DATA_SOURCE: COJ Environment Infrastructure Service Department
-source_url_1: 
+reporting_status: notstarted
 

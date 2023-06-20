@@ -7,7 +7,10 @@ STAT_CONC_DEF: The City of Johannesburg publishes an updated Disaster Management
 UNIT_MEASURE: Yes/No
 DATA_COMP: No method of computation required
 SOURCE_TYPE: COJ Municipal Disaster Management Plan
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: Disaster Management Team
+REC_USE_LIM: 
+source_organisation_1: Disaster Management Team
+COMPARABILITY: Domesticated Indicator
 source_url_1: 
 

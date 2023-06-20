@@ -7,7 +7,10 @@ STAT_CONC_DEF: The Functional Illiteracy Rate of the population is the percentag
 UNIT_MEASURE: Percentage
 DATA_COMP: Functional Literate Adults 20+ years/Total Adults 20+ years
 SOURCE_TYPE: Quantec Persons' Level of Education and Literacy (REDU)
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
-source_url_1: 
+REC_USE_LIM: Not disaggregated by sex
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.easydata.co.za/
 

@@ -7,7 +7,10 @@ STAT_CONC_DEF: Population Census StatsSA 1996, 2001, 2011 on ward level (2011 de
 UNIT_MEASURE: Number
 DATA_COMP: Method of computation unknown
 SOURCE_TYPE: District Health Information System (DHIS)
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Calculation unclear
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
 source_url_1: https://za.dhis.dhmis.org/dhis-web-commons/security/login.action
 

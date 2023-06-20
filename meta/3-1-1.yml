@@ -7,7 +7,10 @@ STAT_CONC_DEF: Maternal death is death occurring during pregnancy, childbirth an
 UNIT_MEASURE: Percentage
 DATA_COMP: Maternal death in facility / (Live birth in facility) + (Born alive before arrival at facility)
 SOURCE_TYPE: COJ Integrated Policy Planning & Research Unit Data
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: COJ Department of Health
+REC_USE_LIM: Public health facilities only
+source_organisation_1: COJ Department of Health
+COMPARABILITY: Domesticated Indicator
 source_url_1: 
 

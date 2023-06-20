@@ -7,7 +7,10 @@ STAT_CONC_DEF: A proxy indicator for the level of poverty using an average of th
 UNIT_MEASURE: Percentage
 DATA_COMP: Average of (Share below the upper poverty line (StatsSA defined)+Share below the food poverty line (StatsSA defined)+Share below the lower poverty line (StatsSA defined))
 SOURCE_TYPE: IHS Data Platform, South Africa Regional eXplorer 2374
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Data not split by sex, age, emploment status or geography
+source_organisation_1: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
 source_url_1: 
 

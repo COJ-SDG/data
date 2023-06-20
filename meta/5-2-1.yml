@@ -7,7 +7,10 @@ STAT_CONC_DEF: Governance Public Safety and Justice Survey results
 UNIT_MEASURE: Percentage
 DATA_COMP: 
 SOURCE_TYPE: Governance Public Safety and Justice Survey
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: UCT - DataFirst
+REC_USE_LIM: Very low levels of reported violence indicates potential issue with data
+source_organisation_1: UCT - DataFirst
+COMPARABILITY: Domesticated Indicator
 source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=GPSJS&sort_by=title&sort_order=asc&ps=15
 

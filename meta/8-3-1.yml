@@ -7,7 +7,10 @@ STAT_CONC_DEF: Informal employment divided by the number of Employed
 UNIT_MEASURE: Percentage of employed
 DATA_COMP: (#"Employed - Informal (Number)")/(#"Employed - Formal and informal - Total (Number)")*100
 SOURCE_TYPE: Quantec Employment (RUEM)
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
-source_url_1: 
+REC_USE_LIM: None
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.easydata.co.za/
 

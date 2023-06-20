@@ -1,7 +1,5 @@
-"Year","Urbanisation","Value"
-2015,Urban,75
-2016,Urban,80
-2017,Urban,80
-2015,Rural,35
-2016,Rural,40
-2017,Rural,45
+Year,Source,Value
+2022,Other source of electricity,10.70745698
+2022,Other source of energy for heating water,3.059273423
+2022,Wood,0.382409178
+2022,,14.14913958

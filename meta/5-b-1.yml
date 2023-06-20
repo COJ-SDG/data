@@ -7,7 +7,10 @@ STAT_CONC_DEF: Proportion of households who own a mobile telephone
 UNIT_MEASURE: Percentage of population
 DATA_COMP: Households who answered YES to the questions "Cellular telephone"/Total Households
 SOURCE_TYPE: South Africa - General Household Survey
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: UCT - DataFirst
+REC_USE_LIM: At a household level rather than individual and only for 1 year
+source_organisation_1: UCT - DataFirst
+COMPARABILITY: Original SDG Indicator
 source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=ghs&sort_by=title&sort_order=asc&ps=15
 

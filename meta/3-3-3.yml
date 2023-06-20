@@ -7,7 +7,10 @@ STAT_CONC_DEF: All parasitological-confirmed malaria cases reported in South Afr
 UNIT_MEASURE: Number
 DATA_COMP: 
 SOURCE_TYPE: COJ Integrated Policy Planning & Research Unit Data
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: COJ Department of Health
+REC_USE_LIM: Public health facilities only
+source_organisation_1: COJ Department of Health
+COMPARABILITY: Domesticated Indicator
 source_url_1: 
 

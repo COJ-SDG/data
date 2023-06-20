@@ -7,7 +7,10 @@ STAT_CONC_DEF: Gross Value Added by Region (GVA-R) - Broad Economic Sectors (9 s
 UNIT_MEASURE: Percentage
 DATA_COMP: Gross Value Added by Region (GVA-R) - Broad Economic Sectors (9 sectors) - Sector's share of regional total (%) - 2011 - 3 Manufacturing
 SOURCE_TYPE: IHS Data Platform, South Africa Regional eXplorer 2374
-source_active_1: TRUE
+source_active_1: True
 DATA_SOURCE: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: 
+source_organisation_1: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Original SDG Indicator
 source_url_1: 
 
