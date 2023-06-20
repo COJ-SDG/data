@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Attribute",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Very dissatisfied",
+                "Dissatisfied",
+                ""
+              ]
+            },
+            "title": "Attribute"
           },
           {
             "name": "Value",

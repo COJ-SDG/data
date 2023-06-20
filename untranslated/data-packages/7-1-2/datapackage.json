@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Other source of electricity",
+                "Other source of energy for heating water",
+                "Wood",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

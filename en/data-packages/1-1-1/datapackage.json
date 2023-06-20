@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Attribute",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pov_Food_%",
+                "Pov_Low_%",
+                "Pov_Upper_%",
+                "Average",
+                ""
+              ]
+            },
+            "title": "Attribute"
           },
           {
             "name": "Value",

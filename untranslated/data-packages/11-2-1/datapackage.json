@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Attribute",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-10 minutes",
+                "11-20 minutes",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
